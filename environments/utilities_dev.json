@@ -1,0 +1,13 @@
+{
+    "name": "utilities_dev",
+    "description": "Environment where all the utilies/tools will fit in to",
+    "chef_type": "environment",
+    "json_class": "Chef::Environment",
+    "default_attributes": {
+    },
+    "override_attributes": {
+    },
+    "cookbook_versions": {
+        "jen_kins": "= 0.1.0"
+    }
+}
